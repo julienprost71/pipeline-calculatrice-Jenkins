@@ -48,7 +48,7 @@ stage('Deliver') {
 stage('Branch'){
 	agent any
 	steps{
-		echo 'nouvelle-branche
+		echo 'nouvelle-branche'
 	}
 }
     }
